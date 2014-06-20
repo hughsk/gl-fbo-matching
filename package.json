@@ -1,0 +1,36 @@
+{
+  "name": "gl-fbo-matching",
+  "version": "1.0.0",
+  "description": "Compare two gl-fbo instances' contents for matching pixels.",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {},
+  "author": {
+    "name": "Hugh Kennedy",
+    "email": "hughskennedy@gmail.com",
+    "url": "http://hughsk.io/"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/gl-fbo-matching.git"
+  },
+  "keywords": [
+    "gl",
+    "webgl",
+    "fbo",
+    "matching",
+    "difference",
+    "compare",
+    "diff",
+    "similarity",
+    "image",
+    "texture",
+    "buffer"
+  ],
+  "homepage": "https://github.com/hughsk/gl-fbo-matching",
+  "bugs": {
+    "url": "https://github.com/hughsk/gl-fbo-matching/issues"
+  }
+}
